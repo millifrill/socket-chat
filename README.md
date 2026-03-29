@@ -1,18 +1,17 @@
 # socket-chat
 
-Uppgift
-• Du ska göra en applikation som använder socket.io på klient-sidan (frontend) och server-sidan (backend). Man ska kunna kommunicera mellan klient-sidan och server-sidan och kunna vara uppkopplade som flera användare samtidigt och kommunicera i realtid.
-• Du ska göra ett enkelt tärningsspel på klientsidan som skickar varje kast till server-sidan och skriver ut summan så att alla andra anslutna ser det tillsammans med ditt namn.
-• Varje uppkopplad användare ska kunna skriva kommentarer som visas för alla andra anslutna.
-• Du ska filma en kort demo som visar att det fungerar som det är tänkt som lämnas in tillsammans med labben.
-• Inlämningsuppgiften ska göras individuellt.
+Uppgift  
+• Du ska göra en applikation som använder socket.io på klient-sidan (frontend) och server-sidan (backend). Man ska kunna kommunicera mellan klient-sidan och server-sidan och kunna vara uppkopplade som flera användare samtidigt och kommunicera i realtid.  
+• Du ska göra ett enkelt tärningsspel på klientsidan som skickar varje kast till server-sidan och skriver ut summan så att alla andra anslutna ser det tillsammans med ditt namn.  
+• Varje uppkopplad användare ska kunna skriva kommentarer som visas för alla andra anslutna.  
+• Du ska filma en kort demo som visar att det fungerar som det är tänkt som lämnas in tillsammans med labben.  
+• Inlämningsuppgiften ska göras individuellt.  
 
-Följande ska finnas med när du lämnar in labben:
+Följande ska finnas med när du lämnar in labben:  
 • Källkoden till applikationen som en zip-fil alternativt en textfil med en länk till Github.
-Om ni laddar upp applikationen som en zil-fil ta bort node modules mappen så att zip-filen inte blir för stor.
+Om ni laddar upp applikationen som en zil-fil ta bort node modules mappen så att zip-filen inte blir för stor.  
 • En kort film (ca 5 minuter) där du gör en demo där det framgår att allting fungerar genom att du har uppe minst två flikar i en webbläsare (som fungerar som två uppkopplade användare som använder applikationen). Använd t ex programmet OBS för att göra filmen.
 Har du gjort VG-delen behöver du visa i Insomnia eller Postman att databasen fungerar som det är tänkt.
-
 
 Betygskriterier
 Krav för G
